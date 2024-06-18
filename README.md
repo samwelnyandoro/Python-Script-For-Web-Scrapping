@@ -29,7 +29,7 @@ git clone https://github.com/samwelnyandoro/Python-Script-For-Web-Scrapping.git
 2. Navigate to the directory containing the script:
 
 ```bash
-cd your-repository
+cd Python-Script-For-Web-Scrapping
 ```
 
 3. Edit the script (`script.py`) and add the URLs you want to scrape in the `urls` list:
