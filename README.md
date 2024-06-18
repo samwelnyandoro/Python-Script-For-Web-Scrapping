@@ -58,3 +58,10 @@ Make sure to replace `"http://example.com"` and `"https://example.org"` with the
 - If the web pages use SSL certificates that are not valid or have issues, you may need to disable SSL verification by setting `verify=False` in the `requests.get` and `requests.post` calls. This is done in the `fetch_html_get` and `fetch_html_post` functions.
 
 Feel free to modify the instructions as needed for your specific use case or repository structure.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+```
+
+Make sure to create a `LICENSE.md` file in your repository and include the text of the MIT License in it. You can copy the MIT License text from [here](https://opensource.org/licenses/MIT).
