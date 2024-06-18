@@ -62,6 +62,3 @@ Feel free to modify the instructions as needed for your specific use case or rep
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-Make sure to create a `LICENSE.md` file in your repository and include the text of the MIT License in it. You can copy the MIT License text from [here](https://opensource.org/licenses/MIT).
