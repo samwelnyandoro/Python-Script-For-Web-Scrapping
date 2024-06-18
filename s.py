@@ -93,49 +93,7 @@ def scrape_website(url, method="GET", data=None):
 # Example usage
 if __name__ == "__main__":
     urls = [
-        #"https://state.mn.us",
-        #"http://iowaagriculture.gov",
-        #"http://alaska.gov",
-        #"http://az.gov",
-        #"http://colorado.gov",
-        #"http://fdacs.gov",status failed not found
-        #"http://Georgia.gov",
-        #"http://hawaii.gov",
-        #"https://agri.idaho.gov/",
-        #"https://agr.illinois.gov/",
-        #"https://www.in.gov/isda/",
-        #"https://www.agriculture.ks.gov/", status failed
-        #"https://www.kyagr.com/",
-        #"https://www.ldaf.state.la.us/",
-        #"https://www.maine.gov/dacf/",
-        #"https://mda.maryland.gov/Pages/default.aspx",
-        #"https://www.mass.gov/orgs/massachusetts-department-of-agricultural-resources",
-        #"https://www.michigan.gov/mdard", status failed
-        #"https://www.mdac.ms.gov/",
-        #"https://agriculture.mo.gov/", status failed
-        #"https://agr.mt.gov/",
-        #"https://nda.nebraska.gov/index.html",
-        #"https://www.agri.nv.gov/",
-        #"https://www.agriculture.nh.gov/",
-        #"https://www.nj.gov/agriculture/",
-        #"https://nmdeptag.nmsu.edu/",
-        #"https://agriculture.ny.gov/",
-        #"https://www.ncagr.gov/",
-        #"https://agri.ohio.gov/home", status failed
-        #"https://ag.ok.gov/", status failed
-        #"https://www.oregon.gov/oda/Pages/default.aspx",
-        #"https://www.agriculture.pa.gov/Pages/default.aspx",
-        #"https://dem.ri.gov/natural-resources-bureau/agriculture-and-forest-environment/agriculture",
-        #"https://agriculture.sc.gov/", status failed
-        #"https://danr.sd.gov/",
-        #"https://www.tn.gov/agriculture.html",
-        #"https://texasagriculture.gov/",
-        #"https://ag.utah.gov/", status failed
-        #"https://agriculture.vermont.gov/",
-        #"https://www.vdacs.virginia.gov/",
-        #"https://agr.wa.gov/",
-        #"https://agriculture.wv.gov/", status failed not found
-        #"https://agriculture.wy.gov/"
+        #"http://example.com",
     ]
     method = "GET"  # Change to "POST" if needed
     data = None  # Add POST data if needed, e.g., {'key': 'value'}
