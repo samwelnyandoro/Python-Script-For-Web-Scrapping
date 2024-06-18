@@ -1,6 +1,3 @@
-Here's a README.md file that you can use on GitHub to highlight what the script does and what is needed to run it:
-
-```markdown
 # Web Scraping and Data Extraction Script
 
 This Python script performs web scraping to extract email addresses, phone numbers, and addresses from web pages. It then saves the extracted data into an Excel file.
