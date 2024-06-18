@@ -56,6 +56,5 @@ Make sure to replace `"http://example.com"` and `"https://example.org"` with the
 - The script uses GET requests by default. You can change it to POST requests if needed by modifying the `method` variable in the `__main__` block.
 
 - If the web pages use SSL certificates that are not valid or have issues, you may need to disable SSL verification by setting `verify=False` in the `requests.get` and `requests.post` calls. This is done in the `fetch_html_get` and `fetch_html_post` functions.
-```
 
 Feel free to modify the instructions as needed for your specific use case or repository structure.
