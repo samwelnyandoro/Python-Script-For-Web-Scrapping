@@ -32,7 +32,7 @@ git clone https://github.com/samwelnyandoro/Python-Script-For-Web-Scrapping.git
 cd Python-Script-For-Web-Scrapping
 ```
 
-3. Edit the script (`script.py`) and add the URLs you want to scrape in the `urls` list:
+3. Edit the script (`s.py`) and add the URLs you want to scrape in the `urls` list:
 
 ```python
 if __name__ == "__main__":
@@ -46,7 +46,7 @@ if __name__ == "__main__":
 4. Run the script:
 
 ```bash
-python script.py
+python s.py
 ```
 
 Make sure to replace `"http://example.com"` and `"https://example.org"` with the actual URLs you want to scrape.
